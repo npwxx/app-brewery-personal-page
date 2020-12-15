@@ -1,16 +1,16 @@
 body {
-  background-color: #cfd3ce;
+  background-color: #fce1d3;
 }
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
+  border-color: #ff8e71;
   border-width: 5px;
   width: 15%;
 }
 h1 {
-  color: #34626c;
+  color: #583d72;
 }
 h3 {
-  color: #839b97;
+  color: #9f5f80;
 }
